@@ -6,7 +6,7 @@ MedIT Student and programming enthusiast
 
 * 🌍  I'm based in Wrocław, Poland
 * 🧠  I'm learning Kotlin and Python
-* 🤝  I'm open to collaborating on interesting projects that are connected with Mobile development, Python and Data Science
+* 🤝  I'm open to collaborating on interesting projects that are connected with mobile and backend development and data science. 
 
 ### Skills
 
